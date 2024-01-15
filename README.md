@@ -1,4 +1,4 @@
-## Hello my name is Diogo!
+## Greetings! U can call me Diogo!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Sh3doow-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
