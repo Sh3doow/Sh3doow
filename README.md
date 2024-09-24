@@ -4,7 +4,8 @@ Welcome to my GitHub profile! I’m a cybersecurity enthusiast passionate about 
 
 ## 🚀 Featured Projects
 
-- **[Project 1](https://github.com/Sh3doow/key-logger)**: It basiclly capture keywords, mouseclicks, audio ands sends it to email.
+- **[Keylogger](https://github.com/Sh3doow/key-logger)**: It basiclly capture keywords, mouseclicks, audio ands sends it to email.
+- **[Fake ID](https://github.com/Sh3doow/FakeID)**: Literally create fake and basic info about "someone".
 
 ## 🌱 Currently Improving
 
