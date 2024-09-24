@@ -66,4 +66,4 @@ Let's connect and collaborate on cool projects!
 
 ## ⚡ Fun Fact
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace&color=FF0000&size=22&center=true&lines=When+I'm+not+hacking,+I'm+coding+%F0%9F%92%BB;)
+When i'm not hacking, i'm programming...
