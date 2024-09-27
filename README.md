@@ -48,7 +48,8 @@ Welcome to the crazy side of the digital world! I'm Sh3doow, passionate about **
 
 📂 Explore some of my highlighted projects focused on hacking and cybersecurity:
 
-- **[Keylogger](https://github.com/Sh3doow/key-logger)**: A keylogger tool that captures keystrokes, mouse clicks, audio, and sends it to an email.
+- **[Keylogger](https://github.com/Sh3doow/KeyLogger)**: A keylogger tool that captures keystrokes, mouse clicks, audio, and sends it to an email.
+- **[Ransomware](https://github.com/Sh3doow/Ransomware)**: A script that encrypt/decrypt systems for testing purposes and funny time.
 - **[Fake ID](https://github.com/Sh3doow/FakeID)**: A script that generates fake basic personal information for testing purposes.
 
 ---
