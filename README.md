@@ -23,7 +23,7 @@ Welcome to the crazy side of the digital world! I'm Sh3doow, passionate about **
 </div>
 
 ---
-
+<!--
 ## 🔧 `Tech Arsenal`
 
 - ![Python Badge](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
@@ -43,7 +43,7 @@ Welcome to the crazy side of the digital world! I'm Sh3doow, passionate about **
 - ![Sqlmap Badge](https://img.shields.io/badge/Sqlmap-%23AA0000.svg?style=flat&logo=sqlmap&logoColor=white)
 
 ---
-
+-->
 ## 🚀 `Featured Projects`
 
 📂 Explore some of my highlighted projects focused on hacking and cybersecurity:
