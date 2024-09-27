@@ -68,7 +68,8 @@ Welcome to the crazy side of the digital world! I'm Sh3doow, passionate about **
 ## 🛡️ `Certifications`
 
 Here are some of my key certifications that back up my skills:
-
+- **IT operator**: School
+- **IT equipment technician and manager**: School
 - **Penetration Testing (SYCP)**: Certified by Solyd
 - **Basic Python**: Certified by Solyd
 
