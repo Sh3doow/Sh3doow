@@ -1,91 +1,67 @@
-# 💀 Welcome to the Hackers Side 💀
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace&color=00FF00&size=25&lines=Welcome+to+the+Cyber+World...;I+am+%5BSh3doow%5D;Cybersecurity+Enthusiast;Hacker+in+the+Shadows;Your+Digital+Security+Is+My+Mission)
-
----
-
-### 🕶️ `Cybersecurity Enthusiast | Ethical Hacker | Developer | Darknet Explorer` 🕶️
-
-> *"In the world of hackers, shadows are my refuge."* 🦇
-
-Welcome to the crazy side of the digital world! I'm Sh3doow, passionate about **ethical hacking**, **cybersecurity**, **programming**, and **networking**. Explore my repositories, uncover the hidden gems of cybersecurity knowledge, and join me in the quest to secure the digital frontier! 🛡️
-
----
-
-## ⚙️ GitHub Stats Dashboard
-
-> _"In the world of hacking, every contribution counts."_ 👾
-
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 30px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sh3doow&theme=radical&hide_border=true&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="GitHub Streak" width="49.5%" height="195px">
-  <!--
-  <img src="https://github-readme-stats.vercel.app/api?username=Sh3doow&show_icons=true&theme=radical&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49.5%" height="195px" /> -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Monaco&duration=3000&color=00FF00&center=true&vCenter=true&width=435&lines=Cybersecurity+Specialist;Penetration+Testing;Malware+Analysis;Network+Security;Digital+Forensics" alt="Typing SVG">
 </div>
 
----
-<!--
-## 🔧 `Tech Arsenal`
+<div align="center">
 
-- ![Python Badge](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
-- ![JavaScript Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-- ![MySQL Badge](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
-- ![PHP Badge](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
-- ![Bash Badge](https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat&logo=gnu-bash&logoColor=white)
 
----
+```ascii
+###################################################
+#                                                 #
+#                                                 #
+#   ____  _     _____     _                       #
+#  / ___|| |__ |___ /  __| | ___   _____      __  #
+#  \___ \| '_ \  |_ \ / _` |/ _ \ / _ \ \ /\ / /  #
+#   ___) | | | |___) | (_| | (_) | (_) \ V  V /   #
+#  |____/|_| |_|____/ \__,_|\___/ \___/ \_/\_/    #
+#                                                 #
+#                                                 #
+################################################### 
+```
 
-## 🔓 `Cybersecurity Tools in my Arsenal`
+</div>
 
-- ![Metasploit Badge](https://img.shields.io/badge/Metasploit-%23186F9E.svg?style=flat&logo=metasploit&logoColor=white)
-- ![Wireshark Badge](https://img.shields.io/badge/Wireshark-%230167A9.svg?style=flat&logo=wireshark&logoColor=white)
-- ![Nmap Badge](https://img.shields.io/badge/Nmap-%23D69F29.svg?style=flat&logo=nmap&logoColor=white)
-- ![Burp Suite Badge](https://img.shields.io/badge/Burp_Suite-%23FF6F00.svg?style=flat&logo=burp-suite&logoColor=white)
-- ![Sqlmap Badge](https://img.shields.io/badge/Sqlmap-%23AA0000.svg?style=flat&logo=sqlmap&logoColor=white)
 
----
--->
-## 🚀 `Featured Projects`
+<div align="center">
+  <p><i>"In the digital realm, security is not just a practice - it's a mindset"</i></p>
+</div>
 
-📂 Explore some of my highlighted projects focused on hacking and cybersecurity:
+## Core Competencies
+`Offensive Security` | `Vulnerability Analysis` | `Malware Analysis` | `Digital Forensics` | `Network Security` | `Privacy & Anonymity`
 
-- **[Keylogger](https://github.com/Sh3doow/KeyLogger)**: A keylogger tool that captures keystrokes, mouse clicks, audio, and sends it to an email.
-- **[Ransomware](https://github.com/Sh3doow/Ransomware)**: A script that encrypt/decrypt systems for testing purposes and funny time.
-- **[Fake ID](https://github.com/Sh3doow/FakeID)**: A script that generates fake basic personal information for testing purposes.
+## Notable Projects
+[`Keylogger`](https://github.com/Sh3doow/KeyLogger) - Advanced keystroke analysis system with remote reporting capabilities  
+[`Ransomware`](https://github.com/Sh3doow/Ransomware) - Educational cryptographic implementation for security testing  
+[`FakeID`](https://github.com/Sh3doow/FakeID) - Synthetic data generation framework for security validation
 
----
+## Performance Metrics
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sh3doow&theme=matrix&hide_border=true&background=000000&ring=008F11&fire=00FF00&currStreakLabel=00FF00" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Sh3doow&show_icons=true&theme=dark&bg_color=000000&title_color=00FF00&icon_color=008F11&text_color=FFFFFF&hide_border=true&include_all_commits=true" />
+      </td>
+    </tr>
+  </table>
 
-## 🔍 `Currently Exploring`
+</div>
 
-💡 Continuously sharpening my skills in:
-- Offensive security techniques (e.g., Sniffing, Spoofing)
-- Vulnerability Analysis & Exploitation
-- Malware Analysis & Reverse Engineering
-- Cryptography & Digital Forensics
-- Anonymity and Privacy Enhancements (Tor, Proxys, etc.)
+## Professional Credentials
+- `SYCP - Penetration Testing Certification`
+- `IT Operations & Infrastructure Management`
+- `Advanced Python Development`
 
----
+<div align="center">
+  <a href="https://linkedin.com/in/sh3doow">
+    <img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
 
-## 🛡️ `Certifications`
-
-Here are some of my key certifications that back up my skills:
-- **IT operator**: School
-- **IT equipment technician and manager**: School
-- **Penetration Testing (SYCP)**: Certified by Solyd
-- **Basic Python**: Certified by Solyd
-
----
-
-## 📡 `Connect with Me`
-
-Reach out, collaborate, or just talk cybersecurity! Let’s connect:
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sh3doow)
-
----
-
-## ⚡ `Fun Fact`
-
-> 👾 When I'm not hacking into systems, I'm hacking my way through code.
-
----
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
