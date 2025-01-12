@@ -39,11 +39,6 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sh3doow&theme=matrix&hide_border=true&background=000000&ring=008F11&fire=00FF00&currStreakLabel=00FF00" />
-      </td>
-    </tr>
-    <tr>
-      <td>
         <img src="https://github-readme-stats.vercel.app/api?username=Sh3doow&show_icons=true&theme=dark&bg_color=000000&title_color=00FF00&icon_color=008F11&text_color=FFFFFF&hide_border=true&include_all_commits=true" />
       </td>
     </tr>
